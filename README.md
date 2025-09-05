@@ -17,7 +17,7 @@ LinkedIn: https://www.linkedin.com/in/osama-rezk/ · GitHub: https://github.com/
 ---
 
 ## Profile
-Aspiring Back-End Developer with solid experience in **Node.js, Express, and TypeScript**. Proficient in building robust APIs, managing databases, and improving user experience. Seeking to contribute to innovative teams and grow professionally, leveraging technical skills and problem-solving abilities. :contentReference[oaicite:1]{index=1}
+Aspiring Back-End Developer with solid experience in **Node.js, Express, and TypeScript**. Proficient in building robust APIs, managing databases, and improving user experience. Seeking to contribute to innovative teams and grow professionally, leveraging technical skills and problem-solving abilities.
 
 ---
 
@@ -30,26 +30,27 @@ _10/2021 – 06/2025_.
 ## Top Skills
 
 ### Technical
-- **Languages:** JavaScript, TypeScript.  
-- **Back-end:** Node.js, Express.js, TypeScript.  
-- **Databases:** MongoDB, SQL (basic).  
-- **Authentication & APIs:** JWT, RESTful APIs.  
-- **Tools:** Git, GitHub.  
-- OOP, Data Structures & Algorithms.
+- **Languages:** JavaScript, TypeScript  
+- **Back-end:** Node.js, Express.js, TypeScript  
+- **Databases:** MongoDB, SQL (basic)  
+- **Authentication & APIs:** JWT, RESTful APIs  
+- **Tools:** Git, GitHub  
+- OOP, Data Structures & Algorithms
 
 ### Soft Skills
-- Effective communication & teamwork.  
-- Problem-solving & analytical thinking.  
-- Adaptability & quick learning. :contentReference[oaicite:2]{index=2}
+- Effective communication & teamwork  
+- Problem-solving & analytical thinking  
+- Adaptability & quick learning
 
 ---
 
 ## Work Experience
-**Back-end Developer — Entry Level**  
+**Back-end Developer — Entry Level**
+
 - Developed secure user registration and login systems using JWT.  
 - Built and maintained APIs for product management and shopping-cart features.  
 - Stored and managed data with MongoDB.  
-- Participated in code reviews to maintain quality. :contentReference[oaicite:3]{index=3}
+- Participated in code reviews to maintain quality.
 
 ---
 
@@ -57,13 +58,13 @@ _10/2021 – 06/2025_.
 
 ### E-Commerce Application
 - **Features:** User authentication (JWT), product management APIs, shopping-cart (add/update/remove), checkout flow.  
-- **Repo:** https://github.com/Osamaosy/E-Commerce_MERN. :contentReference[oaicite:4]{index=4}
+- **Repo:** https://github.com/Osamaosy/E-Commerce_MERN
 
 ---
 
 ## Languages
 - **Arabic:** Native  
-- **English:** Good (Professional Working Proficiency). :contentReference[oaicite:5]{index=5}
+- **English:** Good (Professional Working Proficiency)
 
 ---
 
