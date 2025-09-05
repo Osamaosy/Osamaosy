@@ -1,6 +1,6 @@
-<!-- Header image (استبدل الصورة لو حبيت صورة شخصية أو تصميم آخر) -->
+<!-- Header image (الصورة موجودة في نفس مجلد README.md) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/backend/backend.png" alt="Header" width="900">
+  <img src="./header.png" alt="Header" width="900">
 </p>
 
 <!-- Badges -->
