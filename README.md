@@ -1,4 +1,3 @@
-<!-- Header image (الصورة موجودة في نفس مجلد README.md) -->
 <p align="center">
   <img src="./header.png" alt="Header" width="900">
 </p>
@@ -8,12 +7,11 @@
   <a href="mailto:osarezk119@gmail.com"><img src="https://img.shields.io/badge/Email-osarezk119%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a>
   <a href="https://github.com/Osamaosy"><img src="https://img.shields.io/badge/GitHub-Osamaosy-181717?style=for-the-badge&logo=github&logoColor=white" height="28"></a>
   <a href="https://www.linkedin.com/in/osama-rezk/"><img src="https://img.shields.io/badge/LinkedIn-Osama%20Rezk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
-  <a href="tel:+201010392256"><img src="https://img.shields.io/badge/Phone-+20%201010392256-34A853?style=for-the-badge&logo=phone&logoColor=white" height="28"></a>
 </p>
 
 # Osama Ibrahim
 **Aspiring Back-End Developer** — Alexandria, Egypt  
-**Email:** osarezk119@gmail.com · **Phone:** +20 101 039 2256  
+**Email:** osarezk119@gmail.com  
 LinkedIn: https://www.linkedin.com/in/osama-rezk/ · GitHub: https://github.com/Osamaosy
 
 ---
