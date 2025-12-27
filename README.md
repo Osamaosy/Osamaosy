@@ -1,13 +1,24 @@
-# Osama Ibrahim
+<div align="center">
+  <img src="./header.png" alt="Header" width="100%" />
+</div>
 
-**Backend Developer (Node.js | TypeScript)**
-📍 Alexandria, Egypt
+<div align="center">
+  <h1>Osama Ibrahim</h1>
+  <h3>Backend Developer (Node.js | TypeScript)</h3>
+  <p>Alexandria, Egypt</p>
 
-[![Email](https://img.shields.io/badge/Email-osarezk119%40gmail.com-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:osarezk119@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Osamaosy-181717?style=flat&logo=github&logoColor=white)](https://github.com/Osamaosy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Osama%20Rezk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-rezk/)
-
-**Phone:** +201010392256
+  <a href="mailto:osarezk119@gmail.com">
+    <img src="https://img.shields.io/badge/Email-osarezk119%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Osamaosy">
+    <img src="https://img.shields.io/badge/GitHub-Osamaosy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/osama-rezk/">
+    <img src="https://img.shields.io/badge/LinkedIn-Osama%20Rezk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br />
+  <b>Phone:</b> +201010392256
+</div>
 
 ---
 
@@ -72,6 +83,8 @@ Aspiring Back-End Developer with a strong foundation in **Node.js, Express.js, a
 
 ## 📊 GitHub Stats
 
-![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osamaosy&show_icons=true&count_private=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osamaosy&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Osamaosy&show_icons=true&count_private=true&theme=radical" alt="Osama's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osamaosy&layout=compact&theme=radical" alt="Top Languages" />
+</div>
